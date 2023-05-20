@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+}
+
+th,td{
+ border-bottom:1px solid white;
+ border-collapse: collapse;
+ padding:10px;
+ text-align: center;
+}
+
+table{
+    width:100vw;
+    border-spacing: 0;
+    color:white;
+}
+.image-one{
+    width:20px;
+    height:20px;
+}
